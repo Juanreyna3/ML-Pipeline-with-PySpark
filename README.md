@@ -1,8 +1,5 @@
 # ML-Pipeline-with-PySpark
 
-
-Description to be updated:
-
 Constructed a machine learning pipeline with a random forest regression model and used cross validation and parameter tuning to select the best model to evaluate from the pipeline.
 
 - loaded a dataset in PySpark 
