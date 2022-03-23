@@ -3,7 +3,7 @@
 
 Description to be updated:
 
-Learn how to load your dataset in Spark and learn how to perform basic cleaning techniques such as removing columns with high missing values and removing rows with missing values. You will then create a machine learning pipeline with a random forest regression model. You will use cross validation and parameter tuning to select the best model from the pipeline. Lastly, you will evaluate your model’s performance using various metrics.
+Constructed a machine learning pipeline with a random forest regression model and used cross validation and parameter tuning to select the best model to evaluate from the pipeline.
 
 - loaded a dataset in PySpark 
 - described and cleaned dataset 
